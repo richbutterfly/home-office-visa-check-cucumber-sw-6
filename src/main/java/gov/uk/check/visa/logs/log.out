@@ -1,0 +1,9700 @@
+2023-12-19 17:12:211 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (0b36d60620e23189c57265d8cbe26778)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:363 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (0b36d60620e23189c57265d8cbe26778)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:959 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:197 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (0b36d60620e23189c57265d8cbe26778)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:844 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (0b36d60620e23189c57265d8cbe26778)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:251 INFO  StartPage :24 - Getting text from : [[ChromeDriver: chrome on windows (0b36d60620e23189c57265d8cbe26778)] -> xpath: //h2[contains(text(),'You will not need a visa to come to the UK')]]
+2023-12-19 17:12:662 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:821 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:53 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:910 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:95 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:865 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:302 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //input[@id='response-1']]
+2023-12-19 17:12:368 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (ecd16cd7654c31dafb8b9850cafd931f)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 17:12:911 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (af9e49b8326d6dab9faf6ab15050e025)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:14 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (af9e49b8326d6dab9faf6ab15050e025)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:645 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:821 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (af9e49b8326d6dab9faf6ab15050e025)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:374 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (af9e49b8326d6dab9faf6ab15050e025)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:30 INFO  StartPage :24 - Getting text from : [[ChromeDriver: chrome on windows (af9e49b8326d6dab9faf6ab15050e025)] -> xpath: //h2[contains(text(),'You will not need a visa to come to the UK')]]
+2023-12-19 17:12:548 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:724 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:791 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:270 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:439 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:05 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:442 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //input[@id='response-1']]
+2023-12-19 17:12:520 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (7d483c8548f0995c566d54dd430f7726)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 17:12:43 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:147 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:222 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:484 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:723 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:268 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:644 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //input[@id='response-1']]
+2023-12-19 17:12:707 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (26c026686706a431fea913ef232af7c4)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 17:12:495 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (9fe3c53ef1db29ef7efd9ac9aea7ab40)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:620 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (9fe3c53ef1db29ef7efd9ac9aea7ab40)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:769 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (9fe3c53ef1db29ef7efd9ac9aea7ab40)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:473 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:666 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (9fe3c53ef1db29ef7efd9ac9aea7ab40)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:378 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (9fe3c53ef1db29ef7efd9ac9aea7ab40)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:96 INFO  StartPage :32 - Getting text from : [[ChromeDriver: chrome on windows (9fe3c53ef1db29ef7efd9ac9aea7ab40)] -> xpath: //h2[normalize-space()='You may need a visa']]
+2023-12-19 17:12:497 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:591 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:653 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:92 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:204 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:688 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 17:12:997 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //input[@id='response-1']]
+2023-12-19 17:12:61 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (103c8d87e34a429e0ba919af41ab2f7e)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 17:12:317 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (449ad304f0e8f92ad344fe496e9db20b)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:723 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:531 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (a8236a996f25b1c8f8ca170873b9c80f)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:976 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:629 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (09e4e73d4a0667dba01dfbd9f37a8672)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:931 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:656 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (15e30222e29cfc26be3195cbdeb83f14)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:135 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:397 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (e32d707ec9a43a3d200132bc52972e65)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:814 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:143 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (03926e399002ee65316eaf27ece6d560)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:433 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:777 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (9fd192b0ebd1c9a725770ab2d138d56c)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:320 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:174 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (07a884d30ec3f0d259ee9c8c6bf1214e)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:674 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:531 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (c12fd356fff1064965632a1ef33f03f0)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:80 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:542 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (81808d349873afeacef0d75d5c0cb07f)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:897 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:499 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (def8ab59c00facf7489af08189fdf395)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:586 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (def8ab59c00facf7489af08189fdf395)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:647 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (def8ab59c00facf7489af08189fdf395)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:93 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:81 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (5900d78210de609e030cf66994425fdb)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:220 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (5900d78210de609e030cf66994425fdb)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:396 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (5900d78210de609e030cf66994425fdb)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:36 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:509 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (beab31c602ca45c86ec2c255d115c27a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:649 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (beab31c602ca45c86ec2c255d115c27a)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:752 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (beab31c602ca45c86ec2c255d115c27a)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:321 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:703 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (478ea1987d15c914bee475fcc340a041)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:836 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (478ea1987d15c914bee475fcc340a041)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:04 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (478ea1987d15c914bee475fcc340a041)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:843 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:420 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (8ca408044afab11f9b7dd473be99899a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:513 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (8ca408044afab11f9b7dd473be99899a)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:584 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (8ca408044afab11f9b7dd473be99899a)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:280 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:718 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (bf55a87221c3b1e2fcccdb130edf9e0a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:838 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (bf55a87221c3b1e2fcccdb130edf9e0a)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:960 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (bf55a87221c3b1e2fcccdb130edf9e0a)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:671 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:527 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (009c03b136d30d85c9963909bc07ec95)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:614 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (009c03b136d30d85c9963909bc07ec95)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:688 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (009c03b136d30d85c9963909bc07ec95)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:227 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:551 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (c515ed66c883bc25976b1be598511987)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:626 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (c515ed66c883bc25976b1be598511987)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:688 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (c515ed66c883bc25976b1be598511987)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:284 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:832 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (6db75992f00189a195ae00cf6839ba31)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:911 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (6db75992f00189a195ae00cf6839ba31)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:997 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (6db75992f00189a195ae00cf6839ba31)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:518 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 17:12:828 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (3ba57a7812f1003f88f184a3f505458d)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 17:12:979 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (3ba57a7812f1003f88f184a3f505458d)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 17:12:69 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (3ba57a7812f1003f88f184a3f505458d)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 17:12:708 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:615 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (d767c65cd761f34d9bc201fb49518381)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:722 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (d767c65cd761f34d9bc201fb49518381)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:817 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (d767c65cd761f34d9bc201fb49518381)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:472 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:594 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (7c2fbb1d2a3bfdf1b70e7f0b1fd43bcf)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:746 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (7c2fbb1d2a3bfdf1b70e7f0b1fd43bcf)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:22 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (7c2fbb1d2a3bfdf1b70e7f0b1fd43bcf)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:728 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:372 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (43096498fc589c585ff774b309c990e8)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:458 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (43096498fc589c585ff774b309c990e8)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:525 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (43096498fc589c585ff774b309c990e8)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:614 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:204 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (7fd4c838c248e1c836b872dde44680e0)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:333 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (7fd4c838c248e1c836b872dde44680e0)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:435 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (7fd4c838c248e1c836b872dde44680e0)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:537 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:35 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (b66bc7eadea17d4ffe5b80020bb95437)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:119 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (b66bc7eadea17d4ffe5b80020bb95437)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:173 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (b66bc7eadea17d4ffe5b80020bb95437)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:369 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:512 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (21b1d688a3ff279b8b62ef7884c649b7)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:614 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (21b1d688a3ff279b8b62ef7884c649b7)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:677 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (21b1d688a3ff279b8b62ef7884c649b7)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:173 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:163 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (4b36682a41f2f575e9eb641d4e9d31b4)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:255 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (4b36682a41f2f575e9eb641d4e9d31b4)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:319 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (4b36682a41f2f575e9eb641d4e9d31b4)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:763 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:435 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (d076260099ba3e15dea9118e7a0d9dc2)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:621 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (d076260099ba3e15dea9118e7a0d9dc2)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:706 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (d076260099ba3e15dea9118e7a0d9dc2)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:824 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 20:12:550 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (587647bf45fab2206f40c678f56f95fe)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 20:12:635 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (587647bf45fab2206f40c678f56f95fe)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 20:12:693 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (587647bf45fab2206f40c678f56f95fe)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 20:12:663 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:312 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (2065297b8d7215510fd9772b8bf2f2b4)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:402 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (2065297b8d7215510fd9772b8bf2f2b4)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:468 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (2065297b8d7215510fd9772b8bf2f2b4)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:596 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (96c6c094882e998c28c35b049d1f8029)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:698 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (96c6c094882e998c28c35b049d1f8029)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:785 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (96c6c094882e998c28c35b049d1f8029)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:671 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (9827e89c2c41e3fbee81d31073efb6df)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:762 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (9827e89c2c41e3fbee81d31073efb6df)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:831 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (9827e89c2c41e3fbee81d31073efb6df)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:672 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (b1315240c2f02ee5a346fc3d98d4eae4)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:770 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (b1315240c2f02ee5a346fc3d98d4eae4)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:855 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (b1315240c2f02ee5a346fc3d98d4eae4)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:195 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (d8898bf652dc7a6f07f0c9562d0908b5)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:282 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (d8898bf652dc7a6f07f0c9562d0908b5)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:364 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (d8898bf652dc7a6f07f0c9562d0908b5)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:392 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (7eaec12e81551ed8fc4c311903162ef7)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:482 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (7eaec12e81551ed8fc4c311903162ef7)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:567 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (7eaec12e81551ed8fc4c311903162ef7)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:162 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (6e966fbeb1f761d4a03f5201de84eba9)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:267 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (6e966fbeb1f761d4a03f5201de84eba9)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:338 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (6e966fbeb1f761d4a03f5201de84eba9)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:410 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (e1bdd374c3f7a2a32e6b5bd0bc2d8ccb)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:504 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (e1bdd374c3f7a2a32e6b5bd0bc2d8ccb)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:580 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (e1bdd374c3f7a2a32e6b5bd0bc2d8ccb)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:536 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (181c82e857a8eb5ea105dc3f746d9704)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:652 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (181c82e857a8eb5ea105dc3f746d9704)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:720 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (181c82e857a8eb5ea105dc3f746d9704)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:215 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (d7ab4f845aa8a625d20bc4b4de896b5e)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:317 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (d7ab4f845aa8a625d20bc4b4de896b5e)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:399 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (d7ab4f845aa8a625d20bc4b4de896b5e)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:855 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (37c008f75ff90968934b76ae7026533b)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:963 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (37c008f75ff90968934b76ae7026533b)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:77 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (37c008f75ff90968934b76ae7026533b)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:217 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (dc917cf6840e7692930c32d6a8dc641a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:326 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (dc917cf6840e7692930c32d6a8dc641a)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:411 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (dc917cf6840e7692930c32d6a8dc641a)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:50 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (d3d6f379bb90e81c5c208273b7f87217)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:177 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (d3d6f379bb90e81c5c208273b7f87217)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:276 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (d3d6f379bb90e81c5c208273b7f87217)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:22 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:200 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (d3d6f379bb90e81c5c208273b7f87217)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:842 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (d3d6f379bb90e81c5c208273b7f87217)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:282 INFO  StartPage :32 - Getting text from : [[ChromeDriver: chrome on windows (d3d6f379bb90e81c5c208273b7f87217)] -> xpath: //h2[normalize-space()='You may need a visa']]
+2023-12-19 21:12:315 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (235dd9652a75de924a02add2a57a3729)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:458 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (235dd9652a75de924a02add2a57a3729)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:228 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:393 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (235dd9652a75de924a02add2a57a3729)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:70 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (235dd9652a75de924a02add2a57a3729)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:794 INFO  StartPage :24 - Getting text from : [[ChromeDriver: chrome on windows (235dd9652a75de924a02add2a57a3729)] -> xpath: //h2[contains(text(),'You will not need a visa to come to the UK')]]
+2023-12-19 21:12:187 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:279 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:351 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:876 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:991 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:556 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:975 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //input[@id='response-1']]
+2023-12-19 21:12:67 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (ec68cbce4a96cace5a5d93b8b4ac4fdb)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 21:12:153 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:248 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:356 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:195 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:325 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:873 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:242 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //input[@id='response-1']]
+2023-12-19 21:12:325 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (71e846b413954a257024f61e09872dca)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 21:12:858 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:996 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:89 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:701 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:848 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:466 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:939 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //input[@id='response-1']]
+2023-12-19 21:12:22 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (1c2dcc8485d4fb04209515c48dfc15df)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 21:12:675 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (05902e911e4f57696d0def0588a33e2c)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:779 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (05902e911e4f57696d0def0588a33e2c)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:869 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (05902e911e4f57696d0def0588a33e2c)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:770 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (9d550b67e7f524debf29e8ddf75c4406)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:877 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (9d550b67e7f524debf29e8ddf75c4406)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:950 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (9d550b67e7f524debf29e8ddf75c4406)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:574 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:679 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (9d550b67e7f524debf29e8ddf75c4406)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:250 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (9d550b67e7f524debf29e8ddf75c4406)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:633 INFO  StartPage :32 - Getting text from : [[ChromeDriver: chrome on windows (9d550b67e7f524debf29e8ddf75c4406)] -> xpath: //h2[normalize-space()='You may need a visa']]
+2023-12-19 21:12:412 INFO  StartPage :31 - Clicking on Accept All Cookies : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-12-19 21:12:529 INFO  StartPage :35 - Clicking on Hide this message : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //button[contains(text(),'Hide this message')]]
+2023-12-19 21:12:687 INFO  StartPage :27 - Clicking on Start now button : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //a[normalize-space()='Start now']]
+2023-12-19 21:12:272 INFO  StartPage :21 - Selecting nationality from Dropdown:Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire/St Eustatius/Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+British dependent territories citizen
+British national overseas
+British overseas citizen
+British protected person
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Cote d’Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Cyprus (northern part of Cyprus)
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong (British national overseas)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint-Barthélemy
+Samoa
+San Marino
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena, Ascension and Tristan da Cunha
+St Kitts and Nevis
+St Lucia
+St Maarten
+St Martin
+St Vincent and The Grenadines
+Stateless or Refugee
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé and Principe
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+USA
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+2023-12-19 21:12:424 INFO  StartPage :27 - Clicking on Continue button for next step : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:125 INFO  StartPage :34 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-19 21:12:559 INFO  StartPage :25 - Clicking on Longer than 6 months : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //input[@id='response-1']]
+2023-12-19 21:12:639 INFO  StartPage :31 - Clicking on Continue button for next step: [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-19 21:12:183 INFO  StartPage :23 - Selecting job type  : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: (//input[@id='response-0'])[1]]
+2023-12-19 21:12:264 INFO  StartPage :28 - Clicking on next step button : [[ChromeDriver: chrome on windows (05fe1cead303355585a711c7a084a348)] -> xpath: //button[contains(text(),'Continue')]]
